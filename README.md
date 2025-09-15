@@ -33,7 +33,7 @@ We're passionate about everything under the quantum information science umbrella
 # Get Involved
 📧 Contact & Connect
 
-🌐 Website: qcsa.cqse.ucla.edu
+🌐 Website: qcsa.vercel.app
 
 💼 LinkedIn: Quantum Computing Student Association, UCLA
 
