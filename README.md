@@ -4,7 +4,9 @@ The Quantum Computing Student Association (QCSA) at UCLA is a vibrant community 
 We're passionate about everything under the quantum information science umbrella, including:
 
 1.) Quantum Computers - Hardware and software development
+
 2.) Quantum Sensors - Precision measurement technologies
+
 3.) Quantum Algorithms - Computational breakthroughs
 
 # What do we do?
