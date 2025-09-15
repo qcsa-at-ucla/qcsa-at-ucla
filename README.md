@@ -34,7 +34,9 @@ We're passionate about everything under the quantum information science umbrella
 📧 Contact & Connect
 
 🌐 Website: qcsa.cqse.ucla.edu
+
 💼 LinkedIn: Quantum Computing Student Association, UCLA
+
 📍 Location: Los Angeles, CA
 
 # Made with ❤️ by the QCSA community
